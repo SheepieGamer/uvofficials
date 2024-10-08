@@ -1,0 +1,5 @@
+guilds.db
+guilds.db-shm
+guilds.db-wal
+__pycache__/
+.venv/
